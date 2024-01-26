@@ -38,7 +38,7 @@ body {
   .input-field{
     position: relative;
     border-bottom: 2px solid #ccc;
-    margin: 10px 0px;
+    margin: 10px 100px;
     width: 120px;
     
 }
@@ -122,13 +122,18 @@ button:hover {
   }
 }
 @media (max-width: 768px) {
-    .one, .two, .five, .six {
+    .one, .two, .five,{
         font-size: 1.5rem;
+    }
+}
+@media (max-width: 768px) {
+    .one, .two,{
+        font-size: 1rem;
     }
 }
 @media (max-width: 768px) {
      .six {
         font-size: 20px;
-        font-weight: 800;
+        font-weight: 1000;
     }
 }
