@@ -121,12 +121,12 @@ button:hover {
   }
 }
 @media (max-width: 768px) {
-    .one, .two, .five,{
+    .one, .two, {
         font-size: 1.5rem;
     }
 }
 @media (max-width: 768px) {
-    .one, .two,{
+    .five{
         font-size: 1rem;
     }
 }
