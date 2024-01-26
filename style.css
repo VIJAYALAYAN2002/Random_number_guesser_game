@@ -112,7 +112,7 @@ button:hover {
     }
 
     .input-field {
-        margin: 10px 0;
+        margin: 10px 90px;
     }
 }
 @media (max-width: 768px) {
