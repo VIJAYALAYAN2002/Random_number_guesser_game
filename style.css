@@ -35,12 +35,11 @@ body {
     padding: 10px 0 10px 0;
     font-size: 20px;
   }
-  .input-field{
+.input-field{
     position: relative;
     border-bottom: 2px solid #ccc;
     margin: 10px 100px;
-    width: 120px;
-    
+    width: 120px;    
 }
 
 .input-field label {
