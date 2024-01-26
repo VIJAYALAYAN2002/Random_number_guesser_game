@@ -116,13 +116,19 @@ button:hover {
     }
 }
 @media (max-width: 768px) {
+  .input-field {
+    margin: 10px auto; /* Center the input field horizontally */
+    width: 80%; /* Adjust the width as needed */
+  }
+}
+@media (max-width: 768px) {
     .one, .two, .five, .six {
         font-size: 1.5rem;
     }
 }
 @media (max-width: 768px) {
      .six {
-        font-size: 1.5rem;
-        font-weight: 600;
+        font-size: 20px;
+        font-weight: 800;
     }
 }
