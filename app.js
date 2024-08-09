@@ -19,6 +19,7 @@ function check() {
 
         if (score <= 0) {
             alert("You lose");
+            location.reload();
         }
     }
 }
